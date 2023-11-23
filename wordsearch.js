@@ -1,3 +1,5 @@
+// Pair programming exercise completed with Andrew Stefankiv
+
 // function that returns the transposed matrix as a new array
 const transpose = function(matrix) {
   let matrix2 = [];
